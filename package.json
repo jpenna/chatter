@@ -57,6 +57,8 @@
     "bot-library"
   ],
   "dependencies": {
+    "botmaster-messenger": "^1.0.1",
+    "botmaster-twitter-dm": "^1.0.0",
     "debug": "^2.6.1",
     "lodash": "^4.17.4"
   },
